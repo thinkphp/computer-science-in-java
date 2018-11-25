@@ -1,6 +1,6 @@
 public class Euclid {
 
-       //recursive implementation
+       //iterative implementation
        public static int gcd(int x, int y) {
 
               if( y == 0 ) return x;
@@ -8,7 +8,7 @@ public class Euclid {
               else return gcd( y, x % y ); 
        }
 
-       //iterative implementation
+       //recursive implementation
        public static int gcd_rec(int x, int y) {
 
               while( y != 0 ) {
@@ -26,6 +26,7 @@ public class Euclid {
        public static void main(String[] args) {
 
               int x = Integer.parseInt(args[0]);
+
               int y = Integer.parseInt(args[1]);
 
               int r = gcd(x, y);
