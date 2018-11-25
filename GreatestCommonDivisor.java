@@ -41,7 +41,7 @@ public class GreatestCommonDivisor extends Application {
 
                   Integer b = Integer.valueOf(textField2.getText());
 
-                  Integer result = gcd_rec(a,b);
+                  Integer result = gcd(a,b);
  
                   out.setText("GCD (" + a + ","+ b +" ) = " + result.toString());
 
@@ -56,7 +56,8 @@ public class GreatestCommonDivisor extends Application {
         primaryStage.show();
     }
 
-    public static int gcd_rec(int x, int y) {
+    //iterative implementation
+    public static int gcd(int x, int y) {
 
               while( y != 0 ) {
 
@@ -72,6 +73,7 @@ public class GreatestCommonDivisor extends Application {
 
 
     public static void main(String[] args) {
+
         launch(args);
     }
 }
