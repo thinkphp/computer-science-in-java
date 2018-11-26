@@ -20,6 +20,15 @@ public Complex plus(Complex b) {
        return new Complex(real, imag);
 }
 
+public Complex times(Complex b) {
+
+       Complex a = this;
+       double real = a.re * b.re - a.im * b.im; 	
+       double imag = a.re * b.im + a.im * b.re;
+
+       return new Complex(real, imag);   
+}
+
 //return a string representation of the invoking Complex object
 public String toString() {
        if(im == 0) return re + "";
@@ -28,13 +37,14 @@ public String toString() {
        return re + " + " + im + "i";
 }
 
-public static void main(String[] args) {
+ public static void main(String[] args) {
 
        Complex a = new Complex(5.0, 6.0);
        Complex b = new Complex(-3.0, 4.0);
-       System.out.println(a);
-       System.out.println(b);  
-       System.out.println(a.plus(b)); 
-}
+       System.out.println("a = " + a);
+       System.out.println("b = " + b);  
+       System.out.println("a + b = " + a.plus(b));
+       System.out.println("a * b = " + a.times(b)); 
+ }
 
 }
