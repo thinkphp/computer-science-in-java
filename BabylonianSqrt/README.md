@@ -1,2 +1,2 @@
-# Babylonian Method for computing Square Root.
+## Babylonian Method for computing Square Root.
 
