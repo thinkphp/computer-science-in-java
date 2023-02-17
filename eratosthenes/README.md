@@ -1,1 +1,0 @@
-# Sieve Of Eratosthenes
