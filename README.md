@@ -12,3 +12,12 @@ https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/03/Slides.
 ### GUI
 
 https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
+
+
+### JavaFX 
+
+https://replit.com/@thinkphp/JavaFXProjects#Main.java
+
+### Java AWT
+
+### Java Swing
