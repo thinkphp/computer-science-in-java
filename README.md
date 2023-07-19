@@ -21,3 +21,5 @@ https://replit.com/@thinkphp/JavaFXProjects#Main.java
 ### Java AWT
 
 ### Java Swing
+
+### Algorithms
