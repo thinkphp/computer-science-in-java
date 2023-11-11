@@ -65,7 +65,7 @@ boolean myBool = true;       // Boolean
 String myText = "Hello";     // String
 ```
 
-## Switch Statement
+## Switch Statement Control Flow
 
 ```
 switch(expression) {
@@ -79,7 +79,7 @@ switch(expression) {
     // code block
 }
 ```
-## While Statement
+## While Statement Control Flow
 
 ```
 int i = 0;
@@ -96,7 +96,7 @@ do {
 while (i < 5);
 ```
 
-## For Statement
+## For Statement Control Flow
 
 ```
 // Outer loop
@@ -110,7 +110,7 @@ for (int i = 1; i <= 2; i++) {
 } 
 ```
 
-## For-each Loop Statement
+## For-each Loop Statement Control Flow
 
 ```
 String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
@@ -119,7 +119,7 @@ for (String i : cars) {
 }
 ```
 
-## Break/Continue Statement
+## Break/Continue Statement Control Flow
 
 ```
 for (int i = 0; i < 10; i++) {
