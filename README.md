@@ -1,4 +1,4 @@
-## Algorithms + Data Structures = Programs
+## Introduction to Java language
 
 ```
 javac filename.java
