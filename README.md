@@ -65,6 +65,20 @@ boolean myBool = true;       // Boolean
 String myText = "Hello";     // String
 ```
 
+## Switch Statement
+
+```
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+```
 
 ### References
 
