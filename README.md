@@ -169,17 +169,6 @@ public class Main {
 }
 ```
 
-### References
-
-https://introcs.cs.princeton.edu/java/home/
-
-https://cs.stanford.edu/people/eroberts/books/index.html
-
-https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/03/Slides.pdf
-
-https://users.utcluj.ro/~ocuibus/ISP/ISP%20laborator%20(site)/
-
-
 ### GUI
 
 https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
@@ -194,3 +183,17 @@ https://replit.com/@thinkphp/JavaFXProjects#Main.java
 ### Java Swing
 
 ### Algorithms and Data Structures
+
+
+
+### References
+
+https://introcs.cs.princeton.edu/java/home/
+
+https://cs.stanford.edu/people/eroberts/books/index.html
+
+https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/03/Slides.pdf
+
+https://users.utcluj.ro/~ocuibus/ISP/ISP%20laborator%20(site)/
+
+https://www.programming-books.io/essential/java/
