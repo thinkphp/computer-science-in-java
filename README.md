@@ -79,6 +79,45 @@ switch(expression) {
     // code block
 }
 ```
+## While Statement
+
+```
+int i = 0;
+while (i < 5) {
+  System.out.println(i);
+  i++;
+}
+
+int i = 0;
+do {
+  System.out.println(i);
+  i++;
+}
+while (i < 5);
+```
+
+## For Statement
+
+```
+// Outer loop
+for (int i = 1; i <= 2; i++) {
+  System.out.println("Outer: " + i); // Executes 2 times
+  
+  // Inner loop
+  for (int j = 1; j <= 3; j++) {
+    System.out.println(" Inner: " + j); // Executes 6 times (2 * 3)
+  }
+} 
+```
+
+## For-each Loop
+
+```
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+for (String i : cars) {
+  System.out.println(i);
+}
+```
 
 ### References
 
