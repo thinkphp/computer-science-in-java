@@ -110,11 +110,29 @@ for (int i = 1; i <= 2; i++) {
 } 
 ```
 
-## For-each Loop
+## For-each Loop Statement
 
 ```
 String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
 for (String i : cars) {
+  System.out.println(i);
+}
+```
+
+## Break/Continue Statement
+
+```
+for (int i = 0; i < 10; i++) {
+  if (i == 4) {
+    break;
+  }
+  System.out.println(i);
+}
+
+for (int i = 0; i < 10; i++) {
+  if (i == 4) {
+    continue;
+  }
   System.out.println(i);
 }
 ```
