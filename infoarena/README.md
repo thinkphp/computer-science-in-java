@@ -1,1 +1,1 @@
-# Problems
+# Algorithms
