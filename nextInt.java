@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Prog {
+public class ProgNextInt {
     public static void main(String[] argv)
         throws Exception
     {
