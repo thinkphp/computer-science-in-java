@@ -1,6 +1,9 @@
 ## Essential Java language
 
 ```
+
+The javac command is used for compiling Java source files to bytecode files. Bytecode files are platform independent. This means that you can compile your code on one kind of hardware and operating system, and then run the code on any other platform that supports Java.
+
 javac filename.java
 java filename
 
