@@ -65,4 +65,34 @@ public class AddTwoMatrix {
 			System.out.println();
 		}
 	}
+
+	private static void multiply(int[][] first, int[][] second) {
+	int row = first.length;
+	int column = first[0].length;
+	int[][] sum = new int[row][column];
+
+	for (int r = 0; r < row; r++) {
+		for (int c = 0; c < column; c++) {
+			sum[r][c] = first[r][c] * second[r][c];
+		}
+	}
+
+	System.out.println("\nMultiplication of Matrices:\n");
+	print2dArray(sum);
+        }
+
+	private static void subtract(int[][] first, int[][] second) {
+	int row = first.length;
+	int column = first[0].length;
+	int[][] sum = new int[row][column];
+
+	for (int r = 0; r < row; r++) {
+		for (int c = 0; c < column; c++) {
+			sum[r][c] = first[r][c] - second[r][c];
+		}
+	}
+
+	System.out.println("\nSubtraction of Matrices:\n");
+	print2dArray(sum);
+        }
 }
