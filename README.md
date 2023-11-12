@@ -169,6 +169,37 @@ public class Main {
   }
 }
 ```
+## Java Strings
+
+```
+String txt = "Please locate where 'locate' occurs!";
+
+System.out.println(txt.indexOf("locate")); // Outputs 7
+System.out.println("The length of the txt string is: " + txt.length());
+System.out.println(txt.toUpperCase());   // Outputs "HELLO WORLD"
+System.out.println(txt.toLowerCase());   // Outputs "hello world"
+
+//concatenation
+String firstName = "John";
+String lastName = "Doe";
+System.out.println(firstName + " " + lastName);
+
+//count words
+String words = "One Two Three Four";
+int countWords = words.split("\\s").length;
+System.out.println(countWords);
+
+//reverse a string
+String originalStr = "Hello";
+String reversedStr = "";
+
+for (int i = 0; i < originalStr.length(); i++) {
+  reversedStr = originalStr.charAt(i) + reversedStr;
+}
+
+System.out.println("Reversed string: "+ reversedStr);
+```
+
 ## Java Arrays
 
 ```
