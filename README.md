@@ -462,6 +462,65 @@ class Car extends Vehicle {
 
 ```
 
+## Java Classes - import java.util.*
+
+```
+
+// Import the HashMap class
+import java.util.HashMap;
+
+public class Main {
+  public static void main(String[] args) {
+    // Create a HashMap object called capitalCities
+    HashMap<String, String> capitalCities = new HashMap<String, String>();
+
+    // Add keys and values (Country, City)
+    capitalCities.put("England", "London");
+    capitalCities.put("Germany", "Berlin");
+    capitalCities.put("Norway", "Oslo");
+    capitalCities.put("USA", "Washington DC");
+    System.out.println(capitalCities);
+  }
+
+  //access an item
+  capitalCities.get("England");
+
+  //remove an item
+  capitalCities.remove("England");
+
+  //get the size
+  //loop through a HashMap
+  // Print keys
+  for (String i : capitalCities.keySet()) {
+       System.out.println(i);
+  }
+}
+
+
+// Import the HashMap class
+import java.util.HashMap;
+
+public class Main {
+  public static void main(String[] args) {
+
+    // Create a HashMap object called people
+    HashMap<String, Integer> people = new HashMap<String, Integer>();
+
+
+    // Add keys and values (Name, Age)
+    people.put("John", 32);
+    people.put("Steve", 30);
+    people.put("Angie", 33);
+
+    for (String i : people.keySet()) {
+      System.out.println("key: " + i + " value: " + people.get(i));
+    }
+  }
+}
+```
+
+
+
 
 ### GUI
 
