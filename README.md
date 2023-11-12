@@ -675,3 +675,5 @@ https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/03/Slides.
 https://users.utcluj.ro/~ocuibus/ISP/ISP%20laborator%20(site)/
 
 https://www.programming-books.io/essential/java/
+
+https://www.w3schools.com/java/default.asp
