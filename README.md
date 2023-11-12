@@ -427,7 +427,15 @@ public class Main {
 // The car is going as fast as it can!
 // Max speed is: 200
 
-//constructors
+
+//Constructors.
+//A constructor is a special method that creates an object and provides a reference to that object.
+//Java automatically invokes a constructor when a client program uses the keyword new.
+//Each time that a client invokes a constructor, Java automatically:
+
+=> Allocates memory for the object
+=> Invokes the constructor code to initialize the instance variables
+=> Returns a reference to the newly created object
 
 public class Main {
   int modelYear;
