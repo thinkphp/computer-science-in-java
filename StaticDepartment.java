@@ -2,7 +2,7 @@ public class StaticDepartment{
     public static int numberOfWorker= 0;
     public String name;
     
-    public Department(String name) {
+    public StaticDepartment(String name) {
         this.name = name;
         numberOfWorker++; // increment the static variable every time a new 							//Person is created
     }
