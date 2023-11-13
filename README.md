@@ -728,6 +728,8 @@ https://replit.com/@thinkphp/JavaFXProjects#Main.java
 
 ### References
 
+https://cs.fit.edu/~ryan/cse1002/
+
 https://www.buildingjavaprograms.com/toc4.shtml
 
 https://introcs.cs.princeton.edu/java/home/
