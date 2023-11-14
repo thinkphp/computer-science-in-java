@@ -17,4 +17,5 @@ A high standard deviation means that the values are spread out over a wider rang
 ## Practice
 
 https://www.hackerrank.com/challenges/s10-basic-statistics/problem
+
 https://www.hackerrank.com/challenges/s10-standard-deviation/problem
