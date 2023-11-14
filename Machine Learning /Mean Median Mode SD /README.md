@@ -14,8 +14,6 @@ A low standard deviation means that most of the numbers are close to the mean (a
 
 A high standard deviation means that the values are spread out over a wider range.
 
-Example
-
 ## Practice
 
 https://www.hackerrank.com/challenges/s10-basic-statistics/problem
