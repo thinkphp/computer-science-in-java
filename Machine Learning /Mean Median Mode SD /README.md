@@ -1,8 +1,18 @@
 # Mean, Median, Mode, Standard Deviation
 
-Given an array, , of  integers, calculate and print the respective mean, median, and mode on separate lines. If your array contains more than one modal value, choose the numerically smallest one.
+What can we learn from looking at a group of numbers?
 
-Note: Other than the modal value (which will always be an integer), your answers should be in decimal form, rounded to a scale of  decimal place (i.e., ,  format).
+In Machine Learning (and in mathematics) there are often three values that interests us:
+
+* Mean - The average value
+* Median - The mid point value
+* Mode - The most common value
+
+Standard deviation is a number that describes how spread out the values are.
+
+A low standard deviation means that most of the numbers are close to the mean (average) value.
+
+A high standard deviation means that the values are spread out over a wider range.
 
 Example
 
