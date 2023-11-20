@@ -714,7 +714,75 @@ https://replit.com/@thinkphp/JavaFXProjects#Main.java
 
 ### Graphical User Interface GUI AWT
 
+```
+// Java AWT Program for Hello World 
+import java.awt.*; 
+import java.awt.event.WindowAdapter; 
+import java.awt.event.WindowEvent; 
+
+// Driver Class 
+public class AWT_Example { 
+	// main function 
+	public static void main(String[] args) 
+	{ 
+		// Declaring a Frame and Label 
+		Frame frame = new Frame("Basic Program"); 
+		Label label = new Label("Hello World!"); 
+
+		// Aligning the label to CENTER 
+		label.setAlignment(Label.CENTER); 
+
+		// Adding Label and Setting 
+		// the Size of the Frame 
+		frame.add(label); 
+		frame.setSize(300, 300); 
+
+		// Making the Frame visible 
+		frame.setVisible(true); 
+
+		// Using WindowListener for closing the window 
+		frame.addWindowListener(new WindowAdapter() { 
+			@Override
+			public void windowClosing(WindowEvent e) 
+			{ 
+				System.exit(0); 
+			} 
+		}); 
+	} 
+}
+
+```
+
 ### Graphical User Interface GUI Swing
+
+```
+import java.io.*;
+import javax.swing.*;
+ 
+// Main class
+class GFG {
+ 
+    // Main driver method
+    public static void main(String[] args)
+    {
+        JFrame frame
+            = new JFrame(); // creating instance of JFrame
+ 
+        JButton button = new JButton(
+            " GFG WebSite Click"); // creating instance of
+                                   // JButton
+        button.setBounds(
+            150, 200, 220,
+            50); // x axis, y axis, width, height
+ 
+        frame.add(button); // adding button in JFrame
+ 
+        frame.setSize(500, 600); // 400 width and 500 height
+        frame.setLayout(null); // using no layout managers
+        frame.setVisible(true); // making the frame visible
+    }
+}
+```
 
 ### Algorithms and Data Structures
 
