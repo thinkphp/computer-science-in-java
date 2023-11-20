@@ -706,21 +706,15 @@ public class Main {
 }
 ```
 
-
-
-
-### GUI
-
 https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
 
-
-### JavaFX 
+### Graphical User Interface GUI JavaFX 
 
 https://replit.com/@thinkphp/JavaFXProjects#Main.java
 
-### Java AWT
+### Graphical User Interface GUI AWT
 
-### Java Swing
+### Graphical User Interface GUI Swing
 
 ### Algorithms and Data Structures
 
