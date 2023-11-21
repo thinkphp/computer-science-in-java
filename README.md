@@ -817,8 +817,14 @@ class GFG {
 }
 ```
 
-### Algorithms and Data Structures
+## Algorithms and Data Structures
 
+
+## Contests Gym Warmup ProblemSet
+
+   * VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
+
+   * Codeforces Alpha Round 20 https://codeforces.com/contest/20
 
 
 ### References
