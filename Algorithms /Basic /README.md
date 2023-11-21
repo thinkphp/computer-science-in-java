@@ -1,5 +1,5 @@
 # Basic Algorithms
-1. First Degree Equation
+1. First Degree Equation https://ideone.com/vTYzMl
 2. Quadratic Equation Roots https://ideone.com/BcUzDB
 
 ## CSES Problem Set
