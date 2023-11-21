@@ -15,7 +15,7 @@ import java.util.Scanner;
  In other cases print the number of root on the first line and the roots on the following lines in the ascending order.
  Print roots with at least 5 digits after the decimal point.
  */
-public class Main {
+public class Problem20B {
  
     public static final String FORMAT = "%.5f";
     public static final double ZERO = 0;
@@ -140,7 +140,7 @@ public class Main {
         double b = reader.nextInt();
         double c = reader.nextInt();
  
-        Main task = new Main();
+        Problem20B task = new Problem20B();
         task.solve(a, b, c);
     }
 }
