@@ -1,6 +1,6 @@
 # Basic Algorithms
 1. First Degree Equation https://ideone.com/vTYzMl
-2. Quadratic Equation Roots https://ideone.com/BcUzDB
+2. Quadratic Equation Roots https://ideone.com/BcUzDB https://ideone.com/thinkphp/quadraticequation
 
 ## CSES Problem Set
 https://cses.fi/problemset/
