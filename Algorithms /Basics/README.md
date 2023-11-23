@@ -11,8 +11,8 @@ https://cses.fi/problemset/
 * https://infoarena.ro/arhiva-educationala
 * https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 * Quadratic Equation:
-      * 1) https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem  
-      * 2) https://codeforces.com/contest/20/problem/B
+      * i) https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem  
+      * ii) https://codeforces.com/contest/20/problem/B
 * Armstring Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 * Control Digit https://www.pbinfo.ro/probleme/340/control
 
