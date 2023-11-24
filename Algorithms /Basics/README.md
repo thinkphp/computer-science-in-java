@@ -18,5 +18,6 @@ https://cses.fi/problemset/
 
 ## References
 
+* https://enos.itcollege.ee/~japoia/algorithms/examples/
 * https://enos.itcollege.ee/%7Ejapoia/algorithms/index.html
 
