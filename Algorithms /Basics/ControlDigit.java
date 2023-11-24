@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class control {
+public class ControlDigit {
 
     public static void main(String args[]) {
 
