@@ -838,7 +838,7 @@ https://www.w3schools.com/java/default.asp
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/27/Slides.pdf
 
 
-## Programming Contensts
+## Programming Contests
 
    * VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
