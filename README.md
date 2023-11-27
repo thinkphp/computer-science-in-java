@@ -376,7 +376,7 @@ public class DeleteFolder {
 }
 ```
 
-## Java Object-Oriented Programming
+## Object-Oriented Programming
 
 ```
 public class Main {
@@ -509,7 +509,7 @@ public class Main {
 // Outputs 1969 Mustang
 
 
-//Incapsulation
+//Encapsulation
 public class Person {
   private String name; // private = restricted access
 
