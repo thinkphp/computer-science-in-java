@@ -817,13 +817,6 @@ class GFG {
 }
 ```
 
-## Contests Gym Warmup ProblemSet
-
-   * VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
-
-   * Codeforces Alpha Round 20 https://codeforces.com/contest/20
-
-
 ### References
 
 https://cs.fit.edu/~ryan/cse1002/
@@ -843,3 +836,13 @@ https://www.programming-books.io/essential/java/
 https://www.w3schools.com/java/default.asp
 
 https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/27/Slides.pdf
+
+
+## Programming Contensts
+
+   * VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
+
+   * Codeforces Alpha Round 20 https://codeforces.com/contest/20
+
+   * Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
+
