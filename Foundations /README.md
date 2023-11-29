@@ -1,1 +1,1 @@
-# Techniques Programming
+# Algoritm Design Techniques
