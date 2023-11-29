@@ -1,6 +1,6 @@
 #### Introduction to Algorithms
 
-## References
+#### References
 <ul>
   <li>
     <p><a href="https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483">Coders at Work: Reflections on the Craft of Programming</a></p>
