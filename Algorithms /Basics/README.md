@@ -2,6 +2,7 @@
 1. First Degree Equation https://ideone.com/vTYzMl
 2. Quadratic Equation Roots https://ideone.com/BcUzDB https://ideone.com/thinkphp/quadraticequation
 3. Control Digit https://ideone.com/NfMEbD
+4. Fundamental Theorem of Arithmetic https://ideone.com/KS50wH
 
 ## CSES Problem Set
 https://cses.fi/problemset/
