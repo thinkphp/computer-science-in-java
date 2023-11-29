@@ -18,7 +18,7 @@ public class Main {
 
                      }
 
-                     if( fm != 0 ) System.out.println(i + " * " + fm);
+                     if( fm != 0 ) System.out.println(i + " ^ " + fm);
                      i += 1;
               }
        }
