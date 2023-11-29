@@ -1,1 +1,1 @@
-# Algoritm Design Techniques
+# Algorithm Design Techniques
