@@ -1,8 +1,12 @@
 # Basic Algorithms
-1. First Degree Equation https://ideone.com/vTYzMl
-2. Quadratic Equation Roots https://ideone.com/BcUzDB https://ideone.com/thinkphp/quadraticequation
-3. Control Digit https://ideone.com/NfMEbD
-4. Fundamental Theorem of Arithmetic https://ideone.com/KS50wH
+1. Euclid's Algorithm
+2. Extended Euclid's Algorithm 
+3. First Degree Equation https://ideone.com/vTYzMl
+4. Quadratic Equation Roots https://ideone.com/BcUzDB https://ideone.com/thinkphp/quadraticequation
+5. Nature Roots Quadratic Equation unsing Viete's Formulas
+6. Fundamental Theorem of Arithmetic https://ideone.com/KS50wH
+7. Goldbach's Conjecture. 
+8. Control Digit https://ideone.com/NfMEbD
 
 ## CSES Problem Set
 https://cses.fi/problemset/
