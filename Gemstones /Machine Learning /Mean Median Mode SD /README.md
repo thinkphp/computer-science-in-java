@@ -10,6 +10,8 @@ In Machine Learning (and in mathematics) there are often three values that inter
 
 Standard deviation is a number that describes how spread out the values are.
 
+https://ideone.com/qxcwvE
+
 A low standard deviation means that most of the numbers are close to the mean (average) value.
 
 A high standard deviation means that the values are spread out over a wider range.
