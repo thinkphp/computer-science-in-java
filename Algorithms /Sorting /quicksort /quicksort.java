@@ -1,5 +1,3 @@
-
-//se numeste algoritmul prin insertie
 public class QuickSortAlgorithm {
 
        public static void _QuickSort(int lo, int hi, int[] vec) {
