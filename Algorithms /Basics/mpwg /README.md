@@ -1,1 +1,1 @@
-# Minimalist Password Generator
+## Minimalist Password Generator
