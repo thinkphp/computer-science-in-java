@@ -1,3 +1,76 @@
+# Introduction to Java Programming
+## Stanford University
+
+### Course Overview
+This course introduces students to the fundamentals of Java programming, covering core concepts and practical application. By the end of this course, students will have a solid foundation in Java and object-oriented programming principles.
+
+### Week 1: Introduction to Java and Development Environment
+- What is Java?
+- Setting up the Java Development Kit (JDK)
+- Introduction to Integrated Development Environments (IDEs)
+- Writing and running your first Java program
+
+### Week 2: Java Basics
+- Variables and data types
+- Operators
+- Control flow statements (if, else, switch)
+- Loops (for, while, do-while)
+
+### Week 3: Arrays and Methods
+- Single-dimensional arrays
+- Multi-dimensional arrays
+- Method declaration and invocation
+- Method overloading
+
+### Week 4: Object-Oriented Programming I
+- Classes and objects
+- Constructors
+- Instance variables and methods
+- Encapsulation and access modifiers
+
+### Week 5: Object-Oriented Programming II
+- Inheritance
+- Polymorphism
+- Abstract classes
+- Interfaces
+
+### Week 6: Exception Handling
+- Try-catch blocks
+- Throwing exceptions
+- Creating custom exceptions
+- Best practices in exception handling
+
+### Week 7: Java Collections Framework
+- Lists, Sets, and Maps
+- ArrayList and LinkedList
+- HashSet and TreeSet
+- HashMap and TreeMap
+
+### Week 8: File I/O and Serialization
+- Reading and writing text files
+- Working with binary files
+- Object serialization and deserialization
+
+### Week 9: Multithreading
+- Creating and managing threads
+- Synchronization
+- Thread safety and concurrent collections
+
+### Week 10: Java GUI Programming (Swing)
+- Introduction to Swing
+- Creating windows, panels, and dialogs
+- Event handling
+- Basic layouts
+
+### Final Project
+Students will develop a comprehensive Java application that demonstrates their understanding of the concepts covered in the course. The project will involve creating a practical application that incorporates multiple aspects of Java programming.
+
+### Assessment
+- Weekly programming assignments (40%)
+- Midterm exam (20%)
+- Final project (30%)
+- Class participation and quizzes (10%)
+
 ## Essential Java
 
 The javac command is used for compiling Java source files to bytecode files. Bytecode files are platform independent.
