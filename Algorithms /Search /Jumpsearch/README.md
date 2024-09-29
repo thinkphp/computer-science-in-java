@@ -1,3 +1,5 @@
+## Jumpsearch 
+
 Jump Search is an efficient searching algorithm for sorted arrays, with a time complexity between linear search and binary search.
 
 
@@ -58,5 +60,3 @@ The algorithm works by:
 3. Performing a linear search within that block.
 
 The time complexity of Jump Search is O(√n), which is between linear search O(n) and binary search O(log n).
-
-Would you like me to explain any part of this implementation in more detail?
