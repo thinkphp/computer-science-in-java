@@ -961,6 +961,4 @@ https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/27/Slides.
    * Codeforces Alpha Round 20 https://codeforces.com/contest/20
 
    * Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
-   * 
-#### Books   
 
