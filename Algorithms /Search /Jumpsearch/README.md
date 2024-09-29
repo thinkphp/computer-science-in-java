@@ -1,4 +1,4 @@
-I can provide you with an implementation of Jump Search in Java. Jump Search is an efficient searching algorithm for sorted arrays, with a time complexity between linear search and binary search.
+Jump Search is an efficient searching algorithm for sorted arrays, with a time complexity between linear search and binary search.
 
 
 
