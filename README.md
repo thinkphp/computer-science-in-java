@@ -935,8 +935,6 @@ ________
 
 #### References
 
-https://cs.fit.edu/~ryan/cse1002/
-
 https://www.buildingjavaprograms.com/toc4.shtml
 
 https://introcs.cs.princeton.edu/java/home/
@@ -955,10 +953,9 @@ https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/lectures/27/Slides.
 
 
 #### Programming Contests
+VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
-   * VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
+Codeforces Alpha Round 20 https://codeforces.com/contest/20
 
-   * Codeforces Alpha Round 20 https://codeforces.com/contest/20
-
-   * Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
+Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
 
