@@ -48,5 +48,9 @@
   <li>
     <p><a href="https://adventofcode.com/">Advent of code</a></p>
   </li>
+
+  
+  <li>
+    <p><a href="https://adventofcode.com/">https://enos.itcollege.ee/~japoia/algorithms//a></p>
+  </li>
 </ul>
-https://enos.itcollege.ee/~japoia/algorithms/
